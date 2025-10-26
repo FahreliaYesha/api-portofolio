@@ -1,42 +1,32 @@
 [
   {
-    "title": "Silk Blouse",
-    "category": "Elegant Tops",
-    "image": "https://example.com/images/silk-blouse.jpg"
+    "title": "Turtleneck Knit Sweater",
+    "category": "Classic Knits",
+    "image": "https://assets/images/foto2.jpg"
   },
   {
-    "title": "Wide-Leg Trousers",
-    "category": "Classic Bottoms",
-    "image": "https://example.com/images/wide-leg-trousers.jpg"
+    "title": "Wide-leg Trousers",
+    "category": "Modern Silhouettes",
+    "image": "https://assets/images/foto3.jpg"
   },
   {
-    "title": "Tailored Blazer",
-    "category": "Outerwear Collection",
-    "image": "https://example.com/images/tailored-blazer.jpg"
+    "title": "Tailored Grey Blazer",
+    "category": "Refined Layers",
+    "image": "https://assets/images/foto10.jpg"
   },
   {
-    "title": "Midi Wrap Dress",
-    "category": "Timeless Dresses",
-    "image": "https://example.com/images/midi-wrap-dress.jpg"
+    "title": "Belted Midi Dress",
+    "category": "Effortless Grace",
+    "image": "https://assets/images/foto5.jpg"
   },
   {
-    "title": "Trench Coat",
-    "category": "Outerwear Collection",
-    "image": "https://example.com/images/trench-coat.jpg"
+    "title": "Linen Shirt & Pleated Trousers",
+    "category": "Chic Essentials",
+    "image": "https://assets/images/foto6.jpg"
   },
   {
-    "title": "Leather Loafers",
+    "title": "Black Leather Boots",
     "category": "Elegant Footwear",
-    "image": "https://example.com/images/leather-loafers.jpg"
-  },
-  {
-    "title": "Silk Scarf",
-    "category": "Accessories",
-    "image": "https://example.com/images/silk-scarf.jpg"
-  },
-  {
-    "title": "Classic Handbag",
-    "category": "Accessories",
-    "image": "https://example.com/images/classic-handbag.jpg"
+    "image": "https://assets/images/foto7.jpg"
   }
 ]
