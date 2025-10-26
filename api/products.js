@@ -1,0 +1,46 @@
+export default function handler(req, res) {
+  const products = [
+    {
+      "title": "Silk Blouse",
+      "category": "Elegant Tops",
+      "image": "https://example.com/images/silk-blouse.jpg"
+    },
+    {
+      "title": "Wide-Leg Trousers",
+      "category": "Classic Bottoms",
+      "image": "https://example.com/images/wide-leg-trousers.jpg"
+    },
+    {
+      "title": "Tailored Blazer",
+      "category": "Outerwear Collection",
+      "image": "https://example.com/images/tailored-blazer.jpg"
+    },
+    {
+      "title": "Midi Wrap Dress",
+      "category": "Timeless Dresses",
+      "image": "https://example.com/images/midi-wrap-dress.jpg"
+    },
+    {
+      "title": "Trench Coat",
+      "category": "Outerwear Collection",
+      "image": "https://example.com/images/trench-coat.jpg"
+    },
+    {
+      "title": "Leather Loafers",
+      "category": "Elegant Footwear",
+      "image": "https://example.com/images/leather-loafers.jpg"
+    },
+    {
+      "title": "Silk Scarf",
+      "category": "Accessories",
+      "image": "https://example.com/images/silk-scarf.jpg"
+    },
+    {
+      "title": "Classic Handbag",
+      "category": "Accessories",
+      "image": "https://example.com/images/classic-handbag.jpg"
+    }
+  ];
+
+  res.status(200).json(products);
+}
