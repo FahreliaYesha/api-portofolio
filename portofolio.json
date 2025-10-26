@@ -2,31 +2,31 @@
   {
     "title": "Turtleneck Knit Sweater",
     "category": "Classic Knits",
-    "image": "./assets/images/foto2.jpg"
+    "image": "./assets/foto2.jpg"
   },
   {
     "title": "Wide-leg Trousers",
     "category": "Modern Silhouettes",
-    "image": "./assets/images/foto3.jpg"
+    "image": "./assets/foto3.jpg"
   },
   {
     "title": "Tailored Grey Blazer",
     "category": "Refined Layers",
-    "image": "./assets/images/foto10.jpg"
+    "image": "./assets/foto10.jpg"
   },
   {
     "title": "Belted Midi Dress",
     "category": "Effortless Grace",
-    "image": "./assets/images/foto5.jpg"
+    "image": "./assets/foto5.jpg"
   },
   {
     "title": "Linen Shirt & Pleated Trousers",
     "category": "Chic Essentials",
-    "image": "./assets/images/foto6.jpg"
+    "image": "./assets/foto6.jpg"
   },
   {
     "title": "Black Leather Boots",
     "category": "Elegant Footwear",
-    "image": "./assets/images/foto7.jpg"
+    "image": "./assets/foto7.jpg"
   }
 ]
